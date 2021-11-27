@@ -1,4 +1,4 @@
-A Node.js/Express server.
+A pure Node.js/Express server.
 
 This repo is a combination of Scraper API  and Amazon to build an API which fetch product details , reviews  , price etc from the Amazon marketplace.
 
